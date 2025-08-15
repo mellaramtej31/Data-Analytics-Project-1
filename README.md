@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analytics Dashboard (Power BI)
+# 📊 Sales Performance Analytics Dashboard (Power BI+SQL)
 
 ## 📌 Overview
 An *interactive Power BI dashboard* designed to analyze and visualize *sales, customer, and product performance* across different periods, locations, and categories.  
